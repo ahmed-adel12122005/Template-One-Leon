@@ -13,12 +13,6 @@ Check out the live project here:
 
 ---
 
-## 📸 Preview
-
-![Leon Preview](https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=1200&auto=format&fit=crop)  
-*A clean, creative agency layout designed to be fully responsive across all device screens.*
-
----
 
 ## ✨ Features
 
