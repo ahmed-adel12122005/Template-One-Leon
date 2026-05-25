@@ -9,7 +9,7 @@ Welcome to **Leon**, the very first responsive web template project from the Elz
 ## 🚀 Live Demo
 
 Check out the live project here:  
-👉 **[Live Demo Link]([https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY-NAME/](https://ahmed-adel12122005.github.io/Template-One-Leon/))** 
+👉 **[Live Demo Link](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY-NAME/)** *(⚠️ Note: Replace this with your actual GitHub Pages link)*
 
 ---
 
@@ -49,6 +49,10 @@ Building this first template was a massive milestone where I deeply practiced:
 
 ---
 
+## 🔧 How to Run Locally
 
+If you'd like to explore the source code locally, follow these simple steps:
+
+1. Clone the repository:
 ```bash
    git clone [https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY-NAME.git](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY-NAME.git)
